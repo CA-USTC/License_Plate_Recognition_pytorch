@@ -10,7 +10,7 @@
 总体来说，使用深度学习的方案比传统方案效果提升的非常好，而且我们加入空间变换网络STN的做法对于提升识别准确率很有效。
 
 
-YOLOv3运行的时候需要输入命令语句python object_detection_yolo.py --image=图片名.jpg
+##YOLOv3运行的时候需要输入命令语句python object_detection_yolo.py --image=图片名.jpg
 
 YOLOv3的权重模型，可以从链接：https://pan.baidu.com/s/1I2Hv__uiN7ql7RLe99nWsw 提取码：rsue得到
 
