@@ -20,6 +20,4 @@ LPRNet只需要运行LPRNet test函数即可得到结果
 
 其中我们已经添加了STN网络，如果您想去掉STN，只需要对images = STN（images）进行注释即可
 
-如想获取YOLOv3训练集、LPRNet训练集、STN训练集和环境配置方法与训练方法，请发邮件（UESTC陈昂：852926628@qq.com）
-
 如果您认可我们的工作，麻烦给我们一个星星，谢谢您
